@@ -1,0 +1,1 @@
+Uic'ing SilberTranslate.ui...;D:\Qt\5.10.1\msvc2017_64\bin\uic.exe;"c:\Users\trollo\documents\visual studio 2017\Projects\SilberTranslate\SilberTranslate\SilberTranslate.ui" -o ".\GeneratedFiles\ui_SilberTranslate.h"
